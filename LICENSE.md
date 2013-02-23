@@ -1,5 +1,6 @@
 Unless otherwise stated, all work in the repository is under the Apache license.
 
+```
 /*
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -13,5 +14,6 @@ Unless otherwise stated, all work in the repository is under the Apache license.
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+```
 
 The TweetLanes logo is ©2013 Chris Lacy.
