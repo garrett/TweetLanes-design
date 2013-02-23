@@ -40,8 +40,10 @@ files directly).
 
 ## Contribute!
 
-If you'd like to contribute to the repository, please open an issue on our
-[issue tracker](https://github.com/garrett/TweetLanes-design/issues) and you'll be added to the repo.
+If you'd like to contribute to the repository, please 
+[open an issue](https://github.com/garrett/TweetLanes-design/issues/new) on our
+[issue tracker](https://github.com/garrett/TweetLanes-design/issues) and you'll be 
+added to the repo.
 
 
 ## Usage
