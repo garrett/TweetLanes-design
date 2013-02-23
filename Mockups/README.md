@@ -1,5 +1,5 @@
 # Nothing to see yet
 
-There's nothing to see here yet!
+There are no mockups here yet!
 
 Soon?
