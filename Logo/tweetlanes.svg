@@ -16,8 +16,8 @@
    height="3023"
    width="3384"
    inkscape:export-filename="./export/tweetlanes.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="12"
+   inkscape:export-ydpi="12">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -245,9 +245,9 @@
      borderopacity="0.59607843"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1385.5095"
-     inkscape:cy="1539.0442"
+     inkscape:zoom="0.25"
+     inkscape:cx="975.38857"
+     inkscape:cy="1537.4067"
      inkscape:document-units="px"
      inkscape:current-layer="g3312"
      showgrid="false"
